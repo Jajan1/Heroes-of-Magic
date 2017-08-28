@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qt4logo.png</file>
+        <file>windows_xp_tapeta.jpg</file>
+        <file>fire_mage.png</file>
+        <file>fireball.png</file>
+    </qresource>
+</RCC>
